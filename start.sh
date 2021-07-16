@@ -1,1 +1,1 @@
-pm2 start /main/./main && bin/sh
+pm2 start run.json
