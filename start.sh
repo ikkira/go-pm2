@@ -1,1 +1,2 @@
-pm2 start run.json
+sleep 10
+pm2 start /app/run.json && /bin/sh

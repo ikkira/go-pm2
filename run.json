@@ -1,9 +1,0 @@
-{
-  "apps": [
-    {
-      "name": "main",
-      "script": "/main/main",
-      "cwd": "./"
-    }
-  ]
-}
